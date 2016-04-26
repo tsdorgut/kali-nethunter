@@ -3,9 +3,9 @@ Offensive Security Kali Nethunter Port Project for Zenfone 5(T00F)
 
 This project is WIP. You can find more information about Kali Nethunter below. Kernel is already built, and will be added to project when following requirements are met.
 
-TODO:
- -- Add exception to installer script for boot image building for T00F as it has a different tool for boot image compression.
- -- Add boot partition path to devices.cfg (Too lazy to check device :P)
+TODO:  
+ -- Add exception to installer script for boot image building for T00F as it has a different tool for boot image compression.  
+ -- Add boot partition path to devices.cfg (Too lazy to check device :P)  
 
 # NetHunter - Mobile Penetration Testing Platform
 ![Kali NetHunter](https://raw.githubusercontent.com/offensive-security/kali-nethunter/master/images/nethunter-git-logo.png)
