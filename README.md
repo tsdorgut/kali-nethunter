@@ -5,7 +5,7 @@ This project is WIP. You can find more information about Kali Nethunter below. K
 
 TODO:  
  -- Add exception to installer script for boot image building for T00F as it has a different tool for boot image compression.  
- -- Add boot partition path to devices.cfg (Too lazy to check device :P)  
+ -- <strike> Add boot partition path to devices.cfg (Too lazy to check device :P) </strike>   <b> DONE </b>
 
 # NetHunter - Mobile Penetration Testing Platform
 ![Kali NetHunter](https://raw.githubusercontent.com/offensive-security/kali-nethunter/master/images/nethunter-git-logo.png)
